@@ -1,0 +1,58 @@
+  *{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+  img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+  body{
+    display: block;
+    background-color: rgb(55, 109, 125);
+    color: antiquewhite;
+}
+  label{
+    font-family: serif;
+}
+  h1, h2{
+    text-align: center;
+    background-color: aqua;
+    color: black;
+}
+table {
+  width: 50%;
+  margin: auto;
+}
+  table, td,th{
+    border:1px solid black;  
+}
+input {
+  margin: 4px;
+  width: 200px;
+  padding: 8px 20px;
+  border-radius: 5px;
+  text-align: center;
+}
+.form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 900px;
+  margin: auto;
+}
+.submit input {
+  width: 80px;
+}
+.hadir{
+  background-color: chartreuse;
+}
+.izin{
+  background-color: rgb(255, 255, 108);
+}
+.alfa{
+  background-color: rgb(255, 0, 0);
+  color: white;
+}
