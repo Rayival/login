@@ -1,4 +1,4 @@
-const namaSiswa  = ["Rayival ", "Reza ", "Afkar ", "Yuda ", "Dhiyaul "];
+const namaSiswa  = [" ", " ", "", " ", " "];
 let siswa = "";
 
 for (let i = 0; i < namaSiswa.length; i++) {
